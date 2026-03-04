@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbox_design_system"]=self["webpackChunkbox_design_system"]||[]).push([[594],{603:function(n,s,e){e.r(s),e.d(s,{default:function(){return o}});var t=e(6768);const u={class:"about"};function a(n,s){return(0,t.uX)(),(0,t.CE)("div",u,[...s[0]||(s[0]=[(0,t.Lk)("h1",null,"This is an about page",-1)])])}var r=e(1241);const c={},i=(0,r.A)(c,[["render",a]]);var o=i}}]);
+//# sourceMappingURL=about.1bf832e7.js.map
